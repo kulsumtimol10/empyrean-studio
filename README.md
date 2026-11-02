@@ -13,16 +13,4 @@ An interactive creative-engineering web application inspired by Rebecca Yarros's
 3. **Classified Sub-Vault: Interactive Torchlight X-Ray Shader**
    - Dual-layer HTML5 Canvas composite clipping mask that simulates holding a flickering dragonfire torch over censored Navarre Scribe Quadrant decrees to reveal hidden Tyrish rebellion ink underneath.
 
-## 🚀 Deploy to GitHub Pages in 60 Seconds
 
-1. Create a new public repository on GitHub (e.g., `empyrean-studio`).
-2. Upload `index.html` and `README.md` to the root of your repository (or run `git init && git add . && git commit -m "Initial commit" && git push`).
-3. In your GitHub repository, navigate to **Settings → Pages**.
-4. Under **Build and deployment**, select **Deploy from a branch**, choose `main` (and `/ (root)`), and click **Save**.
-5. Your project will be live at `https://<your-github-username>.github.io/empyrean-studio/`.
-
-## 💼 Portfolio & Resume Bullet Points
-
-- **Interactive Graphics & Shaders:** Engineered a 60 FPS dual-layer HTML5 Canvas torchlight X-ray shader and recursive midpoint-displacement lightning engine with zero third-party game engine overhead.
-- **Viral Social Asset Generation:** Built a client-side 9:16 Story/Reels PNG rendering pipeline and 3D holographic foil card previewer tailored for BookTok creators.
-- **Procedural Audio Synthesis:** Implemented real-time acoustic feedback (thunder surges and UI harmonics) using native Web Audio API oscillators and gain envelopes.
